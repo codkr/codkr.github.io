@@ -1,9 +1,6 @@
 ---                
 layout: post       
 title: 智能旅行规划系统二次开发（前端方向）           
-description: 
-需求描述
-前端工程师：工作内容/职位描述：1.参与公司核心智能旅行系统/网站开发；2.依据业务需求完成高质量的网站前端开发和搭建工作，保证各浏览器的兼容性和执行效率；&nbsp3.在理解产品业务的基础上，主动提升产品的用户体验，在交互方式以及页面性能方面不断创新；&nbsp4.关注前端前沿技术研究，通过新技术服务团队和业务。&nbsp任职资格：1.本科及以上学历，计算机相关专业，有相关网站开发经验，或曾参与复杂网站开发者优先；&nbsp2.熟悉DOM,&nbspJavascript,&nbspjQuery,&nbspHTML5,&nbspCSS,&nbspAjax等前端技术，熟悉主流前端开发架构；&nbsp3.熟悉后台语言，如.Net,&nbspJAVA等。熟悉至少一种JS框架，比如bootstrap,&nbspangular,&nbspvue,&nbspreact；&nbsp4.熟练理解，运用restful&nbspWeb服务，利用接口与后端交互。5.有MongoDB，.NET，设计美工经验者优先。6.数据结构清晰、命名规范、编写高质量代码、有模块化意识；&nbsp7.对web技术发展有强烈兴趣，乐于不断学习新知识与新技术,&nbsp并能应用到实际工作中。
-     
+description: <br>需求描述<br>前端工程师：工作内容/职位描述：<br>1.参与公司核心智能旅行系统/网站开发；<br>2.依据业务需求完成高质量的网站前端开发和搭建工作，保证各浏览器的兼容性和执行效率；&nbsp<br>3.在理解产品业务的基础上，主动提升产品的用户体验，在交互方式以及页面性能方面不断创新；&nbsp<br>4.关注前端前沿技术研究，通过新技术服务团队和业务。<br>&nbsp任职资格：<br>1.本科及以上学历，计算机相关专业，有相关网站开发经验，或曾参与复杂网站开发者优先；&nbsp<br>2.熟悉DOM,&nbspJavascript,&nbspjQuery,&nbspHTML5,&nbspCSS,&nbspAjax等前端技术，熟悉主流前端开发架构；&nbsp<br>3.熟悉后台语言，如.Net,&nbspJAVA等。熟悉至少一种JS框架，比如bootstrap,&nbspangular,&nbspvue,&nbspreact；&nbsp<br>4.熟练理解，运用restful&nbspWeb服务，利用接口与后端交互。<br>5.有MongoDB，.NET，设计美工经验者优先。<br>6.数据结构清晰、命名规范、编写高质量代码、有模块化意识；&nbsp<br>7.对web技术发展有强烈兴趣，乐于不断学习新知识与新技术,&nbsp并能应用到实际工作中。<br>     
 contenturl: https://www.yuanjisong.com/Webpage/Job/../Job/detail/jobid/101474      
 ---                 
