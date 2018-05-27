@@ -1,12 +1,7 @@
 ---                
 layout: post       
 title: ERP类和培训类H5开发           
-description: <div class="mobmid">
-<div>
-<h3 class="item_title">需求描述</h3>
-<p>中小学生数字化学习平台部分前端页面开发，<br/>中小学课外补习机构管理系统部分前端页面开发。<br/> <br/>热爱前端技术，<br/>要求非常熟悉html/css/js，<br/>熟知响应式开发，<br/>重本计算机相关专业毕业。</p>
-</div><!--info end-->
-</div>     
+description: <div class="mobmid"><div><h3 class="item_title">需求描述</h3><p>中小学生数字化学习平台部分前端页面开发，<br/>中小学课外补习机构管理系统部分前端页面开发。<br/> <br/>热爱前端技术，<br/>要求非常熟悉html/css/js，<br/>熟知响应式开发，<br/>重本计算机相关专业毕业。</p></div><!--info end--></div>     
 contenturl: https://www.yuanjisong.com/Webpage/Job/../Job/detail/jobid/101496      
 img: http://thirdwx.qlogo.cn/mmopen/vi_32/3eFVIM0VWNiawVT3j9yB4zzhrHmxpMTAzw1eac6ia2Zm5fa7054ew8h3wdyMOf0qsmNOr7DTdFkmPeCws3AQKSbw/132             
 ---                 
