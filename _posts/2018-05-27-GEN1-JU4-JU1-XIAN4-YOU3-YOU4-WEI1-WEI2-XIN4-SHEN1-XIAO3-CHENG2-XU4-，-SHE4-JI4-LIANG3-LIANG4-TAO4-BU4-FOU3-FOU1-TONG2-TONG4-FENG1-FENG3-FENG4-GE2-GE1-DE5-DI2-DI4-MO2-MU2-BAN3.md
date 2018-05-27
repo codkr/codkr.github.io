@@ -1,7 +1,7 @@
 ---                
 layout: post       
 title: 根据现有微信小程序，设计两套不同风格的模板           
-description: <div class="mobmid"><div><h3 class="item_title">需求描述</h3><p>1、小程序已经完成，只是没有设计<br/>2、根据现有小程序内容和布局，设计模板<br/>3、模板为两套不同风格的<br/>4、小程序已经上线，在微信小程序里搜索  通州万达童程童美<br/>5、交付内容为PSD文件，内容可分层</p></div><!--info end--></div>     
+description: '<div class="mobmid"><div><h3 class="item_title">需求描述</h3><p>1、小程序已经完成，只是没有设计<br/>2、根据现有小程序内容和布局，设计模板<br/>3、模板为两套不同风格的<br/>4、小程序已经上线，在微信小程序里搜索  通州万达童程童美<br/>5、交付内容为PSD文件，内容可分层</p></div><!--info end--></div>'     
 contenturl: https://www.yuanjisong.com/Webpage/Job/../Job/detail/jobid/101490      
 img: https://www.yuanjisong.com/Webpage/Job/../../Public/Img/Avatar/c4.jpg             
 ---                 

@@ -1,7 +1,7 @@
 ---                
 layout: post       
 title: webapp整包开发           
-description: <div class="mobmid"><div><h3 class="item_title">需求描述</h3><p>一、需求描述：<br/>App介绍：<br/>谋者APP，主要是帮助需要推广项目的公司或者团队，提供一个发布项目，寻找推广团队大咖，对接项目的一个服务平台，帮助需要做项目的大咖筛选更好的项目，达到资源共享的一个平台，主要功能有：上传项目，项目置顶，项目下架，找大咖，动态，开通会员，创建团队，团队管理，推广套餐等。<br/>人才要求：<br/>团队开发，目前UI正在开发中，如果团队中有UI更好。<br/> <br/>二、合作方式：<br/>项目制，远程开发，时间40天，费用3w。</p></div><!--info end--></div>     
+description: '<div class="mobmid"><div><h3 class="item_title">需求描述</h3><p>一、需求描述：<br/>App介绍：<br/>谋者APP，主要是帮助需要推广项目的公司或者团队，提供一个发布项目，寻找推广团队大咖，对接项目的一个服务平台，帮助需要做项目的大咖筛选更好的项目，达到资源共享的一个平台，主要功能有：上传项目，项目置顶，项目下架，找大咖，动态，开通会员，创建团队，团队管理，推广套餐等。<br/>人才要求：<br/>团队开发，目前UI正在开发中，如果团队中有UI更好。<br/> <br/>二、合作方式：<br/>项目制，远程开发，时间40天，费用3w。</p></div><!--info end--></div>'     
 contenturl: https://www.yuanjisong.com/Webpage/Job/../Job/detail/jobid/101495      
 img: https://www.yuanjisong.com/Webpage/Job/../../Public/Img/Avatar/c2.jpg             
 ---                 
