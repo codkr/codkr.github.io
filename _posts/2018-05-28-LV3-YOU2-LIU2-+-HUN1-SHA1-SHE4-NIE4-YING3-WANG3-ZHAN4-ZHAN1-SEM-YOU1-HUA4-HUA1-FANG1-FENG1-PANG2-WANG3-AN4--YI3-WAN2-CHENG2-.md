@@ -1,0 +1,10 @@
+---                
+layout: post       
+title: 旅游+婚纱摄影网站SEM优化方案
+                                已完成
+           
+description: 
+招募一位资深sem专家，提供一套旅游+婚纱摄影类服务的SEM优化方案，在单个咨询成本增长不高的情况，提升咨询量；’并指导SEM营人员日常工作的优化，实现提高ROI的目的。
+     
+contenturl: https://pro.lagou.com/project/770.html      
+---                 

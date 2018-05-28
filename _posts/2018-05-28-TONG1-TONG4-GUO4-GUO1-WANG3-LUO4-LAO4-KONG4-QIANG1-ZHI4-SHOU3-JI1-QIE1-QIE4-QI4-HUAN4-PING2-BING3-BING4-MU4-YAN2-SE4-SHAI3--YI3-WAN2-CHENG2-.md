@@ -1,0 +1,15 @@
+---                
+layout: post       
+title: 通过网络控制手机切换屏幕颜色
+                                已完成
+           
+description: 
+通过定时或者通过PC发命令，实现手机切换屏幕颜色或者图片
+
+方便上传图片
+
+
+一个控制短PC，或者控制端APP发命令，运行的被控制端APP切换对应的颜色或者图片
+     
+contenturl: https://pro.lagou.com/project/5524.html      
+---                 

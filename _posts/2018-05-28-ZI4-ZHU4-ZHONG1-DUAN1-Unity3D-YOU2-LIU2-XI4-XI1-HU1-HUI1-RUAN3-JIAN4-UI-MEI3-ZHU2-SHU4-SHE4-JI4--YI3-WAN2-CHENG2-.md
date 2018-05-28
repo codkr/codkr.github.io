@@ -1,0 +1,10 @@
+---                
+layout: post       
+title: 自助终端Unity3D游戏软件UI美术设计
+                                已完成
+           
+description: 
+目前公司已开发成熟一款用于高尔夫练习自助终端的U3D游戏软件。目前想升级游戏美工以及UI，需要完整的视觉和交互设计。详情请见详细的项目需求
+     
+contenturl: https://pro.lagou.com/project/7609.html      
+---                 
