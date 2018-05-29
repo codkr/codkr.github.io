@@ -24,6 +24,18 @@ body {
   margin: 0;
 }
 
+.baseInfo {
+    zoom: 1;
+    color: #333;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.project_key {
+    color: #999;
+    margin-left: 8px;
+}
+
 /**
  * Add the correct display in IE 9-.
  */
