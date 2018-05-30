@@ -15,7 +15,7 @@ layout: main
         <span class="label label-success">{{tag}}</span>
         {% endfor %}
     </div>
-    <div>
+    <div style="float:left;">
         <ul class="baseInfo">
             <li><i class="fa fa-money" aria-hidden="true"></i><span class="project_key">项目预算：</span><span>{{post.salary}}</span></li>
             <li><i class="fa fa-calendar" aria-hidden="true"></i><span class="project_key">时间周期：</span><span>{{post.time_range}}</span></li>
@@ -32,7 +32,7 @@ layout: main
         <span style="padding-left:4px">{{ post.description | truncatewords: 15 }}</span>
         <!---span style="padding-left:4px">{{ post.description | strip_html | truncatewords: 15 }}</span--->
     </div>
-    <div class="post-date">{{post.publish_time}}&nbsp;&nbsp;&nbsp;—&nbsp;</div>
+    <div style="padding-top:6px;float:left;" class="post-date">{{post.publish_time}}&nbsp;&nbsp;&nbsp;—&nbsp;</div>
     <!--span class="post-words">{% capture words %}{{ post.description | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span-->
   </div>
 </article>
