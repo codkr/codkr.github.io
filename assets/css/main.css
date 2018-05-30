@@ -29,6 +29,7 @@ body {
     color: #333;
     font-size: 14px;
     margin-top: 8px;
+    margin-left: -40px;
 }
 
 .baseInfo li {
