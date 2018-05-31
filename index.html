@@ -21,9 +21,13 @@ layout: main
             <li><i class="fa fa-calendar" aria-hidden="true"></i><span class="project_key">时间周期：</span><span>{{post.time_range}}</span></li>
         </ul>
         <ul class="baseInfo">
-                <li style="width: 120px;"> <i class="fa fa-user-o" aria-hidden="true"></i><span class="project_key">已推荐：</span><span>{{post.recommend}}</span></li>
                 <li style="width: 120px;"><i class="fa fa-user-o" aria-hidden="true"></i><span class="project_key">已申请：</span><span>{{post.apply}}</span></li>
+                {% if post.recommend %}
+                <li style="width: 120px;"> <i class="fa fa-user-o" aria-hidden="true"></i><span class="project_key">已推荐：</span><span>{{post.recommend}}</span></li>
+                {% endif %}
+                {% if post.review %}
                 <li style="width: 120px;"><i class="fa fa-user-o" aria-hidden="true"></i><span class="project_key">已浏览：</span><span>{{post.review}}</span></li>
+                {% endif %}
         </ul>
     </div>
     <div style="float:left;padding-top:6px;">
