@@ -1469,7 +1469,7 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
-  .label .label-type {
+  .label-type {
     margin-left: 6px;
     border: solid 2px #00caca;
     border-radius: 50px;
