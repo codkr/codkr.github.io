@@ -48,6 +48,15 @@ body {
     margin-left: 8px;
 }
 
+.label-type {
+    margin-left: 6px;
+    border: solid 2px #00caca;
+    border-radius: 50px;
+    padding: 2px 5px;
+    color: #00caca;
+    font-size: 12px;
+    font-weight: 400;
+  }
 /**
  * Add the correct display in IE 9-.
  */
@@ -1469,13 +1478,5 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
-  .label-type {
-    margin-left: 6px;
-    border: solid 2px #00caca;
-    border-radius: 50px;
-    padding: 2px 5px;
-    color: #00caca;
-    font-size: 12px;
-    font-weight: 400;
-  }
+
 }
