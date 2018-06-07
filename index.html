@@ -20,7 +20,7 @@ layout: main
             <li><i class="fa fa-money" aria-hidden="true"></i><span class="project_key">项目预算：</span><span>{{post.salary}}</span></li>
             <li><i class="fa fa-calendar" aria-hidden="true"></i><span class="project_key">时间周期：</span><span>{{post.time_range}}</span></li>
         </ul>
-        <ul class="baseInfo">
+        <ul class="baseInfo" style="overflow:hidden">
                 <li style="width: 120px;"><i class="fa fa-user-o" aria-hidden="true"></i><span class="project_key">已申请：</span><span>{{post.apply}}</span></li>
                 {% if post.recommend %}
                 <li style="width: 120px;"> <i class="fa fa-user-o" aria-hidden="true"></i><span class="project_key">已推荐：</span><span>{{post.recommend}}</span></li>
