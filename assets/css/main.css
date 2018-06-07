@@ -48,6 +48,10 @@ body {
     margin-left: 8px;
 }
 
+.project_value {
+    color: #ff734b;
+    margin-left: 6px;
+}
 .label-type {
     margin-left: 6px;
     border: solid 2px #00caca;
